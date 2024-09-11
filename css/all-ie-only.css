@@ -1,0 +1,7 @@
+.col-services-cat {
+    overflow: hidden;
+}
+
+body .col-serivces-cat-inner .wrapper_img {
+    display: inline-block;
+}
